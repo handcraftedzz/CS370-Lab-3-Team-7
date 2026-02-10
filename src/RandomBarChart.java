@@ -1,3 +1,4 @@
+package src;
 import javax.swing.*;//for window and button
 import java.awt.*;//for graphics
 import java.awt.event.ActionEvent;//for redraw button click
